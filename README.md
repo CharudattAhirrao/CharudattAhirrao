@@ -1,6 +1,5 @@
 # 💫 About Me:
-🚀 Fullstack Developer with a passion for web design and development.
-🌐 Proficient in modern web technologies and staying up-to-date with the latest trends.
+🚀 Fullstack Developer with a passion for web design and development.<br>🌐 Proficient in modern web technologies and staying up-to-date with the latest trends.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/charudatt_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charudatt-ahirrao-724b15215/) 
